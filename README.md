@@ -1,5 +1,3 @@
-# JogoForca
-Feito em Java
 HANGMAN
 🎮 Jogo da Forca em Java — Programação Orientada a Objetos
 Este projeto é uma implementação completa do Jogo da Forca em Java, desenvolvido como parte da disciplina de Programação Orientada a Objetos (POO). O sistema é executado em terminal e demonstra o uso prático dos principais conceitos da orientação a objetos, além de manipulação de arquivos para persistência de dados.
@@ -74,5 +72,3 @@ Você está na pasta correta
 Os arquivos .class foram gerados com javac
 
 O nome do arquivo é HangmanGame.java com a primeira letra maiúscula
-
-
